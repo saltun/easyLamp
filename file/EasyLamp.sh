@@ -33,5 +33,5 @@ echo -e "\e[31mUygulama Kapatıldı \033[0m"
 echo "Savaş Can ALTUN < savascanaltun@gmail.com >"
 exit;
 else
-echo "(E)vet veya (H)ayır diyiniz ! ";
+echo "(E)vet veya (H)ayır deyiniz ! ";
 fi 
