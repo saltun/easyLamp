@@ -10,6 +10,10 @@ Dosyayı root dizinine indirin ardından alttaki komut ile dosyayı calıştır�
 ```
 ./EasyLamp.sh
 ```
+Çalıştırırken erişim engellendi hatas alır iseniz şu şekilde dosyaya izin verebilirsiniz.
+```
+chmod 777 EasyLamp.sh
+```
 Author : [Savas Can ALTUN](http://savascanaltun.com.tr/)
 Mail : savascanaltun@gmail.com
 Web : http://savascanaltun.com.tr
